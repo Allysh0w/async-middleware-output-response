@@ -1,0 +1,15 @@
+{
+  "name": "output_midleware",
+  "version": "1.0.0",
+  "description": "middleware response output",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Allyson Martins",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "http": "0.0.0"
+  }
+}
